@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32efa7cd.css",
+    "main.js": "/static/js/main.ff069c9e.js",
+    "static/js/787.142da1d4.chunk.js": "/static/js/787.142da1d4.chunk.js",
+    "static/media/welco.jpg": "/static/media/welco.7112e2a0ed1d7446a2cb.jpg",
+    "static/media/23.jpg": "/static/media/23.63f12b98fc2f6ef61dac.jpg",
+    "static/media/123.jpg": "/static/media/123.71bda49169c45a31c357.jpg",
+    "index.html": "/index.html",
+    "main.32efa7cd.css.map": "/static/css/main.32efa7cd.css.map",
+    "main.ff069c9e.js.map": "/static/js/main.ff069c9e.js.map",
+    "787.142da1d4.chunk.js.map": "/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32efa7cd.css",
+    "static/js/main.ff069c9e.js"
+  ]
+}
